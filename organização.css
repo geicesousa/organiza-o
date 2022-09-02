@@ -1,0 +1,42 @@
+body{
+    color: rgb(36, 97, 100);
+    background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
+    
+}
+
+header img{
+    width: 15%;
+    border-radius: 90px;
+    display: inline-block;
+    text-align: justify;
+    vertical-align: middle;
+} 
+
+h1{
+    display: inline-block;
+    margin: 0 38%; /* 20% PRA FICAR ALINHADO COM A IMAGEM, 
+    usar o float tbm pode ser uma opção*/
+    padding-top: 20px;    
+    text-align: center;
+}
+
+table{
+    background-image: url("tente.png");
+} 
+table th{
+    padding: 20px 20px;
+    
+}
+td textarea{
+    /*#b7f4f8c7 tom de azul*/
+   background-color: #f8f7f6c7 ;
+   background-image: gradient(to bottom, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), radial-gradient(at 50% 0%, rgba(255,255,255,0.10) 0%, rgba(0,0,0,0.50) 50%);
+   background-blend-mode: soft-light,screen;
+   border-radius: 15px;
+}
+
+footer img{
+    width: 85%;
+    margin-left: 10%;
+    text-align: center;
+} 
