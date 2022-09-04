@@ -1,7 +1,6 @@
 body{
     color: rgb(36, 97, 100);
     background-image: linear-gradient(to top, #accbee 0%, #e7f0fd 100%);
-    
 }
 
 header img{
@@ -23,12 +22,12 @@ h1{
 table{
     background-image: url("tente.png");
 } 
+
 table th{
     padding: 20px 20px;
-    
 }
+
 td textarea{
-    /*#b7f4f8c7 tom de azul*/
    background-color: #f8f7f6c7 ;
    background-image: gradient(to bottom, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), radial-gradient(at 50% 0%, rgba(255,255,255,0.10) 0%, rgba(0,0,0,0.50) 50%);
    background-blend-mode: soft-light,screen;
