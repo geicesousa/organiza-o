@@ -1,6 +1,6 @@
 # 👩🏿 ♀️ Geice Sousa Pinho
 
-![miniatura da página](./geice-sousa.github.io_meu-perfil_.png)
+![miniatura da página](./geice-sousa.github.io_organiza-o_.png)
 
 ### ✨ 🎖️ Projeto construído para compor meu portfólio 🌺 😊
 
